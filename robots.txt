@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: 
+Disallow: /categories/
+Disallow: /tags/
+Disallow: /blog/archives/
+Disallow: /blog/
+Disallow: /page/
+Disallow: /code/
+Disallow: /archives
+Disallow: /pass.html
+Disallow: /postify/
+Disallow: /short/
+
+User-Agent: Mediapartners-Google
+Allow: /blog/
+Allow: /page/
+Allow: /tags/
+
+User-Agent: Adsbot-Google
+Allow: /blog/
+Allow: /tags/
+Allow: /page/
+
+Sitemap: http://www.techelex.org/atom.xml
