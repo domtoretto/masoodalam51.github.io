@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.techelex.org/shortly-serveless-pastebin/</loc>
+    <lastmod>2012-12-29T10:47:00.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.techelex.org/why-switch-blog-from-octopress-to-hexo/</loc>
     <lastmod>2014-02-22T14:53:26.000Z</lastmod>
   </url>
@@ -19,11 +24,6 @@
   <url>
     <loc>http://www.techelex.org/remove-octopress-post-date-from-google-search-results/</loc>
     <lastmod>2013-03-31T10:02:00.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.techelex.org/shortly-serveless-pastebin/</loc>
-    <lastmod>2012-12-29T10:47:00.000Z</lastmod>
   </url>
   
   <url>
@@ -123,7 +123,7 @@
   
   <url>
     <loc>http://www.techelex.org/pass.html</loc>
-    <lastmod>2014-02-12T14:42:43.000Z</lastmod>
+    <lastmod>2014-02-25T15:18:19.000Z</lastmod>
   </url>
   
 </urlset>
