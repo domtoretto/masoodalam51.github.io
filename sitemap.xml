@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.techelex.org/404.html</loc>
+    <lastmod>2014-02-26T20:00:11.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.techelex.org/shortly-serveless-pastebin/</loc>
     <lastmod>2012-12-29T10:47:00.000Z</lastmod>
   </url>
