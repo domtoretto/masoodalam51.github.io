@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.techelex.org/remove-octopress-post-date-from-google-search-results/</loc>
+    <lastmod>2013-03-31T10:02:00.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.techelex.org/add-adsense-code-parser-in-blogger/</loc>
+    <lastmod>2013-01-03T11:52:00.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.techelex.org/postify-html-escape-adsense-parser/</loc>
+    <lastmod>2013-04-19T20:17:00.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.techelex.org/404.html</loc>
     <lastmod>2012-10-19T07:29:00.000Z</lastmod>
   </url>
@@ -19,16 +34,6 @@
   <url>
     <loc>http://www.techelex.org/setup-octopress-on-windows7/</loc>
     <lastmod>2012-10-19T12:51:00.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.techelex.org/postify-html-escape-adsense-parser/</loc>
-    <lastmod>2013-04-19T20:17:00.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.techelex.org/remove-octopress-post-date-from-google-search-results/</loc>
-    <lastmod>2013-03-31T10:02:00.000Z</lastmod>
   </url>
   
   <url>
@@ -99,11 +104,6 @@
   <url>
     <loc>http://www.techelex.org/add-character-counter-in-blogger/</loc>
     <lastmod>2013-01-03T17:19:00.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.techelex.org/add-adsense-code-parser-in-blogger/</loc>
-    <lastmod>2013-01-03T11:52:00.000Z</lastmod>
   </url>
   
   <url>

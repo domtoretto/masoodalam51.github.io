@@ -4,7 +4,7 @@
   <subtitle><![CDATA[A dedicated softwares and electronics tutorial blog]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://www.techelex.org/"/>
-  <updated>2014-02-26T20:40:52.053Z</updated>
+  <updated>2014-02-27T14:59:11.258Z</updated>
   <id>http://www.techelex.org/</id>
   
   <author>
@@ -88,9 +88,9 @@ Insha-allah In next part of this tutorial we will show you how to use this softw
     <link href="http://www.techelex.org/postify-html-escape-adsense-parser/"/>
     <id>http://www.techelex.org/postify-html-escape-adsense-parser/</id>
     <published>2013-04-19T20:17:00.000Z</published>
-    <updated>2014-02-21T20:29:43.000Z</updated>
+    <updated>2014-02-27T14:57:04.000Z</updated>
     <content type="html"><![CDATA[<p><strong>Assalamualaikum</strong></p>
-<p><img align="left" src="http://3.bp.blogspot.com/-fg6VcMDi7Ro/TxBTzI3UQVI/AAAAAAAABUQ/1I5iHh21RD4/s1600/HTML%2Btechelex.jpg"  title="Postify-Adsense Parser Tool in Blogger" />My <strong><a href="/add-adsense-code-parser-in-blogger/" title="Add Adsense Code Parser or HTML Encoder in Your Blogger Blog">Previous tutorial</a></strong> for adding adsense parser or HTML Encoder is quit easy to implement but its produce many error in encoded code and code is not display correctly.Finally i got a better script and its solve all problem.Using this script no <code>undfined</code> error present in code which is present in previous script.Check Demo In <strong><a href="https://googledrive.com/host/0B2ASTcFKEm2udjN3ZERWWUxvN1k//code/postify.html" rel="nofollow" target="_blank">Here</a></strong><a id="more"></a></p>
+<p><img align="left" src="http://3.bp.blogspot.com/-fg6VcMDi7Ro/TxBTzI3UQVI/AAAAAAAABUQ/1I5iHh21RD4/s1600/HTML%2Btechelex.jpg"  title="Postify-Adsense Parser Tool in Blogger" />My <strong><a href="/add-adsense-code-parser-in-blogger/" title="Add Adsense Code Parser or HTML Encoder in Your Blogger Blog">Previous tutorial</a></strong> for adding adsense parser or HTML Encoder is quit easy to implement but its produce many error in encoded code and code is not display correctly.Finally i got a better script and its solve all problem.Using this script no <code>undfined</code> error present in code which is present in previous script.Check Demo In <strong><a href="http://code.techelex.org/postify.html" rel="nofollow" title="Postify-Adsense Parser Tool" target="_blank">Here</a></strong><a id="more"></a></p>
 <h2 id="tutorial-for-adding-postify-in-blogger">Tutorial For Adding Postify In Blogger</h2>
 <p>1.Create a Page</p>
 <p>2.Paste Below Code in Your Page.</p>
@@ -131,7 +131,7 @@ Insha-allah In next part of this tutorial we will show you how to use this softw
 <p>Simply copy above codes and paste where you want.</p>
 <p>Or Add Below Iframe Code In Your Page.</p>
 <figure class="highlight"><table><tr><td class="gutter"><pre>1
-</pre></td><td class="code"><pre><span class="tag">&lt;<span class="title">iframe</span> <span class="attribute">src</span>=<span class="value">"https://googledrive.com/host/0B2ASTcFKEm2udjN3ZERWWUxvN1k/code/postify.html"</span> <span class="attribute">width</span>=<span class="value">"100%"</span> <span class="attribute">height</span>=<span class="value">"500px"</span> /&gt;</span>
+</pre></td><td class="code"><pre><span class="tag">&lt;<span class="title">iframe</span> <span class="attribute">src</span>=<span class="value">"http://code.techelex.org/postify.html"</span> <span class="attribute">width</span>=<span class="value">"100%"</span> <span class="attribute">height</span>=<span class="value">"500px"</span> /&gt;</span>
 </pre></td></tr></table></figure>
 
 
@@ -140,7 +140,7 @@ Insha-allah In next part of this tutorial we will show you how to use this softw
 <p>Paste all codes in your page where you want to show Postify tool,its easy to paste and java code load if user want to use Postify tool and this will not decrease your site speed.</p>
 ]]></content>
     <summary type="html"><![CDATA[<p><strong>Assalamualaikum</strong></p>
-<p><img align="left" src="http://3.bp.blogspot.com/-fg6VcMDi7Ro/TxBTzI3UQVI/AAAAAAAABUQ/1I5iHh21RD4/s1600/HTML%2Btechelex.jpg"  title="Postify-Adsense Parser Tool in Blogger" />My <strong><a href="/add-adsense-code-parser-in-blogger/" title="Add Adsense Code Parser or HTML Encoder in Your Blogger Blog">Previous tutorial</a></strong> for adding adsense parser or HTML Encoder is quit easy to implement but its produce many error in encoded code and code is not display correctly.Finally i got a better script and its solve all problem.Using this script no <code>undfined</code> error present in code which is present in previous script.Check Demo In <strong><a href="https://googledrive.com/host/0B2ASTcFKEm2udjN3ZERWWUxvN1k//code/postify.html" rel="nofollow" target="_blank">Here</a></strong>]]></summary>
+<p><img align="left" src="http://3.bp.blogspot.com/-fg6VcMDi7Ro/TxBTzI3UQVI/AAAAAAAABUQ/1I5iHh21RD4/s1600/HTML%2Btechelex.jpg"  title="Postify-Adsense Parser Tool in Blogger" />My <strong><a href="/add-adsense-code-parser-in-blogger/" title="Add Adsense Code Parser or HTML Encoder in Your Blogger Blog">Previous tutorial</a></strong> for adding adsense parser or HTML Encoder is quit easy to implement but its produce many error in encoded code and code is not display correctly.Finally i got a better script and its solve all problem.Using this script no <code>undfined</code> error present in code which is present in previous script.Check Demo In <strong><a href="http://code.techelex.org/postify.html" rel="nofollow" title="Postify-Adsense Parser Tool" target="_blank">Here</a></strong>]]></summary>
     
       <category term="Blogger" scheme="http://www.techelex.org/tags/Blogger/"/>
     
@@ -257,7 +257,7 @@ Insha-allah In next part of this tutorial we will show you how to use this softw
     <link href="http://www.techelex.org/remove-octopress-post-date-from-google-search-results/"/>
     <id>http://www.techelex.org/remove-octopress-post-date-from-google-search-results/</id>
     <published>2013-03-31T10:02:00.000Z</published>
-    <updated>2014-02-21T20:28:56.000Z</updated>
+    <updated>2014-02-27T14:58:25.000Z</updated>
     <content type="html"><![CDATA[<p><strong>Assalamualaikum,</strong></p>
 <p><img align="left" src="http://4.bp.blogspot.com/-z0GoV1jIALM/UVgZPqnxQKI/AAAAAAAACFw/nJGFlpZURKU/s1600/Date-Remove-Plugin-For-Octopress.jpg"  title="Date Remove Plugin For Octopress" />Every <a href="/tags/Octopress/" title="Octopress Tutorials">Octopress</a> blog theme shows a date for publish post and its very helpfull for readers.Date in post tells readers when post was publish and make them happy but it can be disruptive to the appearance of your content is Google’s SERPS.<strong>Google Panda Update</strong> showing dates of blog post in SERP Description and its mostly happen for <strong>Older blog</strong>.Old dates in your blog post decrease <strong>CTR</strong> of post,so you lost your ranking in world and you lost against your <strong>Competitor</strong>.<a id="more"></a></p>
 <p>For example,if you search for <strong><a href="/setup-octopress-on-windows7/" title="Setup Octopress On Windows7">Setup Octopress In Windows</a></strong> you see results dated with <code>2011</code>,<code>2012</code> and <code>2013</code>.You are ignore first two dated result and click on result which have a lattest date.<strong>Think</strong> if result is withuot any date its take advantage of doubt and obiviously get more click compare to <code>2011</code> and <code>2012</code> </p>
@@ -266,7 +266,7 @@ Insha-allah In next part of this tutorial we will show you how to use this softw
 <p>In Above example,clicks battle between post with no date or post dated with <code>Apr 6, 2012</code>.Which result you like to click?</p>
 <h2 id="how-to-remove-date-stamps-from-google-serps-description">How to Remove Date Stamps from Google SERPS Description</h2>
 <p>Wordpress have a plugin for this purpose but <code>what about octopress?</code></p>
-<p>Simply <a href="https://googledrive.com/host/0B2ASTcFKEm2udjN3ZERWWUxvN1k/code/Remove%20dates%20From%20Google%20Search%20Result.txt" rel="nofollow" target="_blank">Download</a> This Code and follow all steps for remove Date Stamps from Google SERPS Description.</p>
+<p>Simply <a href="http://code.techelex.org/Remove%20dates%20From%20Google%20Search%20Result.txt" rel="nofollow" target="_blank">Download</a> This Code and follow all steps for remove Date Stamps from Google SERPS Description.</p>
 <p><strong>Note:</strong> Please <strong>Backup</strong> your file before any change.</p>
 <hr>
 <p><strong>From Author Desk:</strong></p>
@@ -977,9 +977,9 @@ on <span class="dtreviewed"> March 17 2013<span title="2013-03-17" class="value-
     <link href="http://www.techelex.org/add-adsense-code-parser-in-blogger/"/>
     <id>http://www.techelex.org/add-adsense-code-parser-in-blogger/</id>
     <published>2013-01-03T11:52:00.000Z</published>
-    <updated>2014-02-07T17:57:56.000Z</updated>
+    <updated>2014-02-27T14:57:28.000Z</updated>
     <content type="html"><![CDATA[<p><strong>Assalamualaikum,</strong></p>
-<p><img align="left" src="http://3.bp.blogspot.com/-fg6VcMDi7Ro/TxBTzI3UQVI/AAAAAAAABUQ/1I5iHh21RD4/s1600/HTML%2Btechelex.jpg"  title="Add Adsense Code Parser Or HTML Encoder In Your Blogger" />While writing tutorials or asking a question, sometimes it becomes very necessary to post html and javascript codes in your blog comment forms powered by Blogger. In order to help you to do that we will need to change/encode the same code into a text and then post it effectively without any error.In This Tutorial i show you how to add this tool in your blog.Check Working Demo <a href="/postify/" title="Add Adsense Code Parser Or HTML Encoder In Your Blogger">Here</a><a id="more"></a></p>
+<p><img align="left" src="http://3.bp.blogspot.com/-fg6VcMDi7Ro/TxBTzI3UQVI/AAAAAAAABUQ/1I5iHh21RD4/s1600/HTML%2Btechelex.jpg"  title="Add Adsense Code Parser Or HTML Encoder In Your Blogger" />While writing tutorials or asking a question, sometimes it becomes very necessary to post html and javascript codes in your blog comment forms powered by Blogger. In order to help you to do that we will need to change/encode the same code into a text and then post it effectively without any error.In This Tutorial i show you how to add this tool in your blog.Check Working Demo <a href="http://code.techelex.org/postify.html" rel="nofollow" alt="Add Adsense Code Parser Or HTML Encoder In Your Blogger" title="Add Adsense Code Parser Or HTML Encoder In Your Blogger" target="_blank">Here</a><a id="more"></a></p>
 <p>The Tool below will help you to change HTML characters to simple text, which could be easily inserted in your blogger template and comment form. You can also use it to convert your adsense code into an embeddable form. It converts special characters in this way,</p>
 <ul>
 <li>&#39;&lt;&#39; becomes &#39;&amp;lt;&#39; </li>
@@ -1041,7 +1041,7 @@ on <span class="dtreviewed"> March 17 2013<span title="2013-03-17" class="value-
 <p><strong><a href="/add-google-groups-in-blogger/" title="Add Google Groups as Forum in Your Blogger Blog">Add Google Groups as Forum in Your Blogger Blog</a></strong></p>
 ]]></content>
     <summary type="html"><![CDATA[<p><strong>Assalamualaikum,</strong></p>
-<p><img align="left" src="http://3.bp.blogspot.com/-fg6VcMDi7Ro/TxBTzI3UQVI/AAAAAAAABUQ/1I5iHh21RD4/s1600/HTML%2Btechelex.jpg"  title="Add Adsense Code Parser Or HTML Encoder In Your Blogger" />While writing tutorials or asking a question, sometimes it becomes very necessary to post html and javascript codes in your blog comment forms powered by Blogger. In order to help you to do that we will need to change/encode the same code into a text and then post it effectively without any error.In This Tutorial i show you how to add this tool in your blog.Check Working Demo <a href="/postify/" title="Add Adsense Code Parser Or HTML Encoder In Your Blogger">Here</a>]]></summary>
+<p><img align="left" src="http://3.bp.blogspot.com/-fg6VcMDi7Ro/TxBTzI3UQVI/AAAAAAAABUQ/1I5iHh21RD4/s1600/HTML%2Btechelex.jpg"  title="Add Adsense Code Parser Or HTML Encoder In Your Blogger" />While writing tutorials or asking a question, sometimes it becomes very necessary to post html and javascript codes in your blog comment forms powered by Blogger. In order to help you to do that we will need to change/encode the same code into a text and then post it effectively without any error.In This Tutorial i show you how to add this tool in your blog.Check Working Demo <a href="http://code.techelex.org/postify.html" rel="nofollow" alt="Add Adsense Code Parser Or HTML Encoder In Your Blogger" title="Add Adsense Code Parser Or HTML Encoder In Your Blogger" target="_blank">Here</a>]]></summary>
     
       <category term="Blogger" scheme="http://www.techelex.org/tags/Blogger/"/>
     
