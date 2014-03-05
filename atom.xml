@@ -4,7 +4,7 @@
   <subtitle><![CDATA[A dedicated softwares and electronics tutorial blog]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://www.techelex.org/"/>
-  <updated>2014-03-05T18:11:27.455Z</updated>
+  <updated>2014-03-05T18:16:42.543Z</updated>
   <id>http://www.techelex.org/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="http://www.techelex.org/shareaholic-related-post-plugin-hexo/"/>
     <id>http://www.techelex.org/shareaholic-related-post-plugin-hexo/</id>
     <published>2014-03-05T17:14:46.000Z</published>
-    <updated>2014-03-05T18:10:45.000Z</updated>
+    <updated>2014-03-05T18:16:12.000Z</updated>
     <content type="html"><![CDATA[<p><strong>Assalamualaikum,</strong></p>
 <p><img align="left" src="http://3.bp.blogspot.com/-VkCLuJ71Q-o/UxdhimM7FsI/AAAAAAAACZk/e6GR7LvvsdI/s1600/Related-Post-Plugin-For-Hexo-Blogs.gif"  title="Shareaholic Related Post Plugin For Octopress" />After reading article in any blog we are searching new content and in many blog <strong>Related Post</strong> or <strong>You May Also Like</strong> is present for providing a quick access for related article to user and this is generating more <strong>page view</strong> for any blog or website which is definitely increases ranking and generate more income. My previous tutorial teach you how to insert <a href="/shareaholic-related-post-plugin-octopress/" title="Shareaholic Related Post Plugin For Octopress Blog">Shareaholic Related Post Plugin in Octopress Blog</a>. In this tutorial you learn how to insert Shareaholic Related Post Plugin in <a href="/tags/Hexo/" title="Hexo"><strong>Hexo</strong></a> Blog using <strong>Shareaholic Recommendations</strong>.This is very simple and easy tutorial so follow and enjoy a related post functionality in your hexo blog, any problem i am ready to help you.<a id="more"></a></p>
 <h2 id="steps-for-adding-shareaholic-recommendations-in-hexo">Steps For Adding Shareaholic Recommendations in Hexo</h2>
@@ -84,8 +84,6 @@
 <p><img align="left" src="http://3.bp.blogspot.com/-VkCLuJ71Q-o/UxdhimM7FsI/AAAAAAAACZk/e6GR7LvvsdI/s1600/Related-Post-Plugin-For-Hexo-Blogs.gif"  title="Shareaholic Related Post Plugin For Octopress" />After reading article in any blog we are searching new content and in many blog <strong>Related Post</strong> or <strong>You May Also Like</strong> is present for providing a quick access for related article to user and this is generating more <strong>page view</strong> for any blog or website which is definitely increases ranking and generate more income. My previous tutorial teach you how to insert <a href="/shareaholic-related-post-plugin-octopress/" title="Shareaholic Related Post Plugin For Octopress Blog">Shareaholic Related Post Plugin in Octopress Blog</a>. In this tutorial you learn how to insert Shareaholic Related Post Plugin in <a href="/tags/Hexo/" title="Hexo"><strong>Hexo</strong></a> Blog using <strong>Shareaholic Recommendations</strong>.This is very simple and easy tutorial so follow and enjoy a related post functionality in your hexo blog, any problem i am ready to help you.]]></summary>
     
       <category term="Tutorial" scheme="http://www.techelex.org/tags/Tutorial/"/>
-    
-      <category term="Hexo Plugin" scheme="http://www.techelex.org/tags/Hexo%20Plugin/"/>
     
       <category term="Hexo" scheme="http://www.techelex.org/tags/Hexo/"/>
     
