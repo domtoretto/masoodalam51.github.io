@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.techelex.org/shareaholic-related-post-plugin-hexo/</loc>
+    <lastmod>2014-03-05T17:14:46.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.techelex.org/shareaholic-related-post-plugin-octopress/</loc>
+    <lastmod>2013-04-05T05:15:00.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.techelex.org/add-character-counter-in-blogger/</loc>
     <lastmod>2013-01-03T17:19:00.000Z</lastmod>
   </url>
@@ -49,11 +59,6 @@
   <url>
     <loc>http://www.techelex.org/how-to-design-circuit-layouts/</loc>
     <lastmod>2014-01-23T08:58:00.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.techelex.org/shareaholic-related-post-plugin-octopress/</loc>
-    <lastmod>2013-04-05T05:15:00.000Z</lastmod>
   </url>
   
   <url>

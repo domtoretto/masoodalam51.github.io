@@ -4,7 +4,7 @@
   <subtitle><![CDATA[A dedicated softwares and electronics tutorial blog]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://www.techelex.org/"/>
-  <updated>2014-03-03T17:41:39.609Z</updated>
+  <updated>2014-03-05T17:50:48.434Z</updated>
   <id>http://www.techelex.org/</id>
   
   <author>
@@ -13,6 +13,83 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Shareaholic Related Post Plugin For Hexo]]></title>
+    <link href="http://www.techelex.org/shareaholic-related-post-plugin-hexo/"/>
+    <id>http://www.techelex.org/shareaholic-related-post-plugin-hexo/</id>
+    <published>2014-03-05T17:14:46.000Z</published>
+    <updated>2014-03-05T17:48:42.000Z</updated>
+    <content type="html"><![CDATA[<p><strong>Assalamualaikum,</strong></p>
+<p><img align="left" src="http://3.bp.blogspot.com/-VkCLuJ71Q-o/UxdhimM7FsI/AAAAAAAACZk/e6GR7LvvsdI/s1600/Related-Post-Plugin-For-Hexo-Blogs.gif"  title="Shareaholic Related Post Plugin For Octopress" />After reading article in any blog we are searching new content and in many blog <strong>Related Post</strong> or <strong>You May Also Like</strong> is present for providing a quick access for related article to user and this is generating more <strong>page view</strong> for any blog or website which is definitely increases ranking and generate more income. My previous tutorial teach you how to insert <a href="/shareaholic-related-post-plugin-octopress/" title="Shareaholic Related Post Plugin For Octopress Blog">Shareaholic Related Post Plugin in Octopress Blog</a>. In this tutorial you learn how to insert Shareaholic Related Post Plugin in <a href="/tags/Hexo/" title="Hexo"><strong>Hexo</strong></a> Blog using <strong>Shareaholic Recommendations</strong>.This is very simple and easy tutorial so follow and enjoy a related post functionality in your hexo blog, any problem i am ready to help you.<a id="more"></a></p>
+<h2 id="steps-for-adding-shareaholic-recommendations-in-hexo">Steps For Adding Shareaholic Recommendations in Hexo</h2>
+<p><strong><em>Note:</em> I am Using a Landscape Theme And this Tutorial is tested on it.</strong></p>
+<p><strong>1.</strong> Go to Shareaholic website and <a href="https://www.shareaholic.com/signup" target="_blank" rel="nofollow">signup</a>.</p>
+<p><strong>2.</strong> For adding Recommendations in octopress click on this <a href="https://www.shareaholic.com/account/widgets/new/recommendations" target="_blank" rel="nofollow">link</a>.</p>
+<p><strong>3.</strong> Fillup all necessary data,then click on save settings.After click on it shows a java code to paste in your website copy all code.</p>
+<p><strong>4.</strong> Go to <strong>Themes\landscape\layout</strong> directory of your blog.</p>
+<p><strong>5.</strong> Open <code>_partial\head.ejs</code> and paste this code in above a <code>&lt;/head&gt;</code></p>
+<figure class="highlight"><table><tr><td class="gutter"><pre>1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+</pre></td><td class="code"><pre><span class="tag">&lt;<span class="title">script</span> <span class="attribute">type</span>=<span class="value">"text/javascript"</span>&gt;</span><span class="javascript">
+<span class="comment">//&lt;![CDATA[</span>
+  (<span class="function"><span class="keyword">function</span><span class="params">()</span> {</span>
+    <span class="keyword">var</span> shr = document.createElement(<span class="string">'script'</span>);
+    shr.src = <span class="string">'//dtym7iokkjlif.cloudfront.net/assets/pub/shareaholic.js'</span>;
+    shr.type = <span class="string">'text/javascript'</span>;
+    shr.async = <span class="string">'true'</span>;
+    shr.onload = shr.onreadystatechange = <span class="function"><span class="keyword">function</span><span class="params">()</span> {</span>
+      <span class="keyword">var</span> rs = <span class="keyword">this</span>.readyState;
+      <span class="keyword">if</span> (rs &amp;&amp; rs != <span class="string">'complete'</span> &amp;&amp; rs != <span class="string">'loaded'</span>) <span class="keyword">return</span>;
+      <span class="keyword">var</span> apikey = <span class="string">'6a26e924868f7c2b4e4da9f6138494a0'</span>
+      <span class="keyword">try</span> { Shareaholic.init(apikey); } <span class="keyword">catch</span> (e) {}
+    };
+    <span class="keyword">var</span> s = document.getElementsByTagName(<span class="string">'script'</span>)[<span class="number">0</span>];
+    s.parentNode.insertBefore(shr, s);
+  })();
+<span class="comment">//]]&gt;</span>
+</span><span class="tag">&lt;/<span class="title">script</span>&gt;</span>
+</pre></td></tr></table></figure>
+
+
+<p><strong>Note:</strong> Please replace this apikey with your api key.<code>var apikey = &#39;6a26e924868f7c2b4e4da9f6138494a0&#39;</code> </p>
+<p>6.Open <code>_partial\article.ejs</code> and place this code below a <code>&lt;footer class=&quot;article-footer&quot;&gt;</code> which is present  in line 21.</p>
+<figure class="highlight"><table><tr><td class="gutter"><pre>1
+</pre></td><td class="code"><pre><span class="subst">&lt;</span>div class<span class="subst">=</span><span class="string">'shareaholic-canvas'</span> <span class="built_in">data</span><span class="attribute">-shareaholic</span><span class="attribute">-widgets</span><span class="subst">=</span><span class="string">'recommendations'</span><span class="subst">&gt;&lt;</span>/div<span class="subst">&gt;</span>
+</pre></td></tr></table></figure>
+
+
+<p>7.Enjoy.</p>
+<p><strong>Demo Image:</strong></p>
+<p><img align="center" src="http://4.bp.blogspot.com/-yQkr8Cgl_fE/UxdhiRnxt-I/AAAAAAAACZY/vmn_RihuWZE/s1600/Related+Post+Plugin+Example+Of+Hexo+Blog.jpg"  title="Shareaholic For Hexo" /></p>
+<p>Any Difficulties, Feel Free to Ask.</p>
+]]></content>
+    <summary type="html"><![CDATA[<p><strong>Assalamualaikum,</strong></p>
+<p><img align="left" src="http://3.bp.blogspot.com/-VkCLuJ71Q-o/UxdhimM7FsI/AAAAAAAACZk/e6GR7LvvsdI/s1600/Related-Post-Plugin-For-Hexo-Blogs.gif"  title="Shareaholic Related Post Plugin For Octopress" />After reading article in any blog we are searching new content and in many blog <strong>Related Post</strong> or <strong>You May Also Like</strong> is present for providing a quick access for related article to user and this is generating more <strong>page view</strong> for any blog or website which is definitely increases ranking and generate more income. My previous tutorial teach you how to insert <a href="/shareaholic-related-post-plugin-octopress/" title="Shareaholic Related Post Plugin For Octopress Blog">Shareaholic Related Post Plugin in Octopress Blog</a>. In this tutorial you learn how to insert Shareaholic Related Post Plugin in <a href="/tags/Hexo/" title="Hexo"><strong>Hexo</strong></a> Blog using <strong>Shareaholic Recommendations</strong>.This is very simple and easy tutorial so follow and enjoy a related post functionality in your hexo blog, any problem i am ready to help you.]]></summary>
+    
+      <category term="Tutorial" scheme="http://www.techelex.org/tags/Tutorial/"/>
+    
+      <category term="Hexo Plugin" scheme="http://www.techelex.org/tags/Hexo%20Plugin/"/>
+    
+      <category term="Hexo" scheme="http://www.techelex.org/tags/Hexo/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Why I Switch My Blog From Octopress To Hexo]]></title>
@@ -180,7 +257,7 @@ Insha-allah In next part of this tutorial we will show you how to use this softw
     <link href="http://www.techelex.org/shareaholic-related-post-plugin-octopress/"/>
     <id>http://www.techelex.org/shareaholic-related-post-plugin-octopress/</id>
     <published>2013-04-05T05:15:00.000Z</published>
-    <updated>2014-02-07T19:23:44.000Z</updated>
+    <updated>2014-03-05T17:44:31.000Z</updated>
     <content type="html"><![CDATA[<p><strong>Assalamualaikum</strong></p>
 <p><img align="left" src="http://3.bp.blogspot.com/-0dW-YKM-V0Q/UQFM9CdXL0I/AAAAAAAAB5o/9bYz1EmccZg/s250/Related%2BPost%2BFor%2BOctopress.png"  title="Shareaholic Related Post Plugin For Octopress" /><strong>Related Post</strong> or <strong>You may also like:</strong> in a website increase reader engagement by highlighting related content from across your site and also decrease the bounce rate.In octopress many hacks and plugin present for adding related post content in blog like <a href="/facebook-related-post-plugin-for-octopress/" title="Facebook Related Post Plugin for Octopress Blog">Facebook Related Post Plugin for Octopress Blog </a>.In this tutorial i teach you how to add simplest related post plugin in octopress blog using <strong>Shareaholic Recommendations</strong>.<a id="more"></a></p>
 <h2 id="how-to-add-shareaholic-recommendations-in-octopress">How to add Shareaholic Recommendations in octopress</h2>
@@ -236,7 +313,7 @@ Insha-allah In next part of this tutorial we will show you how to use this softw
 
 
 <p>7.Enjoy.</p>
-<p><img align="center" src="http://3.bp.blogspot.com/-Tu7HsNa63OA/UWFwBWM_fJI/AAAAAAAACGI/ANflbmz5Hdk/s1600/shareaholic+Related+Post+Plugin+For+Octopress+Blog.jpg"  title="Shareaholic  For Octopress" /></p>
+<p><img align="center" src="http://3.bp.blogspot.com/-Tu7HsNa63OA/UWFwBWM_fJI/AAAAAAAACGI/ANflbmz5Hdk/s1600/shareaholic+Related+Post+Plugin+For+Octopress+Blog.jpg"  title="Shareaholic For Octopress" /></p>
 <hr>
 <p><strong>From Author Desk:</strong></p>
 <p>This is a very great service because once you install code in website and make any changes in shareaholic account your website is automatically update with recent change.No need to update code again.</p>
